@@ -10,7 +10,7 @@ Este trabalho consiste na implementação e análise de desempenho de algoritmos
 - Merge Sort Externo utilizando arquivos e intercalação de blocos
 
 ## Resultados
-- Foram realizados testes de tempo de execução e gerados gráficos para análise comparativa do desempenho dos algoritmos. Os resultados e discussões estão apresentados no relatório do trabalho
+Foram realizados testes de tempo de execução e gerados gráficos para análise comparativa do desempenho dos algoritmos. Os resultados e discussões estão apresentados no relatório do trabalho
 
 ## Autoras
 - Lara Liesenberg
